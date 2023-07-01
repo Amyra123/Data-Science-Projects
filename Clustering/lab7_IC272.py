@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Nov 22 16:31:40 2020
 
-@author: Rashmi, B19218
-Ph no. : 7015331137
-"""
 
 import pandas as pd
 import numpy as np
