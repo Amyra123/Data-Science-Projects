@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Nov 15 10:07:50 2020
 
-@author: Rashmi, B19218
-Ph no. : 7015331137
-"""
 import pandas as pd
 import matplotlib.pyplot as plt
 plt.style.use('ggplot')
